@@ -1,0 +1,8 @@
+{
+  "method": "manual",
+  "password_hash": "$argon2id$v=19$m=102400,t=2,p=8$1A/ru27RMnDuPfbQJHagAw$not+OuwxWqcb+SKjCpZzaHzIIhpKrjxSGm71FdVSndw",
+  "salt": "0XWJJ+IgK3n/VDdqb1jY8Q==",
+  "iv": "jTVNBFOKLAxFsjvj",
+  "timestamp": 1746043613,
+  "original_filename": "MP.pdf"
+}

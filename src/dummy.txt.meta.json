@@ -1,0 +1,8 @@
+{
+  "method": "manual",
+  "password_hash": "$argon2id$v=19$m=102400,t=2,p=8$IOa3qhCfX5dwI5uUQ7wneA$wrgF0rkggK4ST5X89bJhzyUYlynUIpAHEjXmE3CzI5E",
+  "salt": "uPk2YB6v21cLXXjO5Wur3Q==",
+  "iv": "HoRZISgdyD7x0Xxw",
+  "timestamp": 1746042890,
+  "original_filename": "dummy.txt"
+}
